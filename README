@@ -1,0 +1,6 @@
+## 설정 방법
+
+1. Google Cloud 콘솔에서 서비스 계정 키(JSON)를 발급받아  
+   `credentials.json` 이름으로 프로젝트 루트에 복사하세요.  
+2. `.gitignore`에 `credentials.json`이 추가되어 있으므로, 커밋되지 않습니다.
+3. 실행: `python app/remindApp.py`  
