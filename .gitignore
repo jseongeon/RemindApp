@@ -1,10 +1,34 @@
-# 파이썬 가상환경
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
 .venv/
+venv/
 
-# 서비스 계정 키 (비공개)
-remind-465308-*.json
-
-# PyInstaller 빌드 산출물
+# PyInstaller 빌드
 build/
 dist/
 *.spec
+!build_app.spec
+
+# Google API 인증 키 (보안)
+app/remind-465308-*.json
+
+# 배포 패키지
+배포패키지/
+
+# 임시/테스트 파일
+test
+test.py
+bugimage/
+
+# Chrome Driver
+chromedriver-win64/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 실행 가이드 (README에 포함됨)
+실행방법.txt
