@@ -129,10 +129,7 @@ python app/desktop_automation_with_image.py
 - `remind image` 폴더 경로를 확인하세요
 - 이미지 파일 형식(jpg, png)을 확인하세요
 
-## 📞 문의
-
-특허법인 테헤란
 
 ---
 
-© 2024 특허법인 테헤란. All rights reserved.
+© 2024 Jeong Seong Eon. All rights reserved.
